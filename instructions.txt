@@ -1,0 +1,8 @@
+1)Database added in root by gomo_learning_test.sql
+2)Go to http://localhost/GomoLearningTestProject/public/ to check the feedback submission page
+3)fill the form and submit to see the success page
+4)Bootstrap is implemented by using watson/bootstrap-form Package
+5)Visit http://localhost/GomoLearningTestProject/public/admin/feedback/list page to view the  sorted listing of the feedbacks submitted
+6)By using export button at the bottom you can export the result in xls format
+7)For exporting the data we use maatwebsite/excel package
+8)We have use migration to create create table in this project .so use php artisan migrate to craete tables
