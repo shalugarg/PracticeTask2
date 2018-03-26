@@ -1,0 +1,37 @@
+{	
+	"Users":[
+		{
+		"name":"userA",
+		"customerId":101,
+		"address":"ST PETROX",
+		"contactNo":"079 2367 1455",
+		"gasConsumptionPerYear":100,
+		"electricityConsumptionPerYear":300
+		},
+		{
+		"name":"userB",
+		"customerId":102,
+		"address":"49 Baldock Street1000",
+		"contactNo":"077 2656 9616",
+		"gasConsumptionPerYear":150,
+		"electricityConsumptionPerYear":180
+		},
+		{
+		"name":"userC",
+		"customerId":103,
+		"address":"46 City Walls Rd1000",
+		"contactNo":"070 8225 2597",
+		"gasConsumptionPerYear":190,
+		"electricityConsumptionPerYear":310
+		},
+		{
+		"name":"userD",
+		"customerId":104,
+		"address":"22 Newmarket Road",
+		"contactNo":"078 5918 2458",
+		"gasConsumptionPerYear":120,
+		"electricityConsumptionPerYear":260
+		}
+	]
+}
+
