@@ -1,2 +1,2 @@
-# gomoLearningTest
-gomoLearningTest
+# Learning
+LearningTest
